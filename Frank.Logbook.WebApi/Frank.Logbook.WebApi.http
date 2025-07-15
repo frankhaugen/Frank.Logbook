@@ -1,0 +1,6 @@
+@Frank.Logbook.WebApi_HostAddress = http://localhost:5105
+
+GET {{Frank.Logbook.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+﻿<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".github\workflows\merge.yml" />
+    <File Path=".github\workflows\pull-request.yml" />
+    <File Path=".github\workflows\release.yml" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="icon.png" />
+    <File Path="LICENSE" />
+    <File Path="nuget.config" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Frank.Logbook.Tests\Frank.Logbook.Tests\Frank.Logbook.Tests.csproj" Type="Classic C#" />
+  <Project Path="Frank.Logbook.Tests\WebApp\WebApp.csproj" Type="Classic C#" />
+  <Project Path="Frank.Logbook.WebApi\Frank.Logbook.WebApi.csproj" Type="Classic C#" />
+  <Project Path="Frank.Logbook.WebApp\Frank.Logbook.WebApp.csproj" Type="Classic C#" />
+</Solution>
